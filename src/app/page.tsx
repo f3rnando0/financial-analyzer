@@ -63,7 +63,7 @@ export default function HomePage() {
             </div>
           </div>
         </div>
-        <div className="w-full lg:w-1/2">
+        <div className="w-full lg:w-7/12">
           <TransactionsChart />
         </div>
       </main>
